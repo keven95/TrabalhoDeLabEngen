@@ -1,0 +1,14 @@
+sistema:
+Uma plataforma de negociação de mercadorias, com os seguintes campos: Código da Mercadoria, Tipo da Mercadoria, Nome da Mercadoria, Quantidade, Preço, Tipo do Negócio (Compra ou Venda).
+quando confirmado essa operação, a página é redirecionada para uma lista de operações, que poderão ser visualizadas
+
+Foi ultilizado
+- Java
+- Hibernate
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+-Apache 7
