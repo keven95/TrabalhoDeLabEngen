@@ -7,5 +7,3 @@ Intruções
 - Em TrabalhoDeLabEngen/Trabalho de Lab Eng/src/META-INF/ estão as informações referente ao banco de dados( URL,root,password). Onde é so trocar pela suas configurações
 - existe um arquivo. sql para que possa ser criado o database e a table.
 - foi utilizado tomcat 7.0
-
--Não consegui Subir o site no heroku mas peço que avalie meu trabalho como você espera que avaliem os seu, seguindo os criterios do professor, obrigado pela compreensão
